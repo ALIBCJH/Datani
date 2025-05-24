@@ -31,12 +31,14 @@ const Hero = () => {
         </div>
 
         {/* Right Section: Image */}
-        <div className="flex-1 flex justify-center md:justify-end items-center">
-          <img
-            src={image}
-            alt="Datani Insurance"
-            className="w-full max-w-xs sm:max-w-md md:max-w-lg rounded-full shadow-lg object-contain transition-transform duration-300 hover:scale-105"
-          />
+        <div className="flex-1 flex justify-center md:justify-end items-center mt-10">
+          <div className="rounded-full p-1 transition-shadow duration-300 hover:ring-4 hover:ring-purple-400 hover:ring-offset-2 hover:ring-offset-white hover:shadow-md hover:shadow-purple-200">
+            <img
+              src={image}
+              alt="Datani Insurance"
+              className="w-full max-w-xs sm:max-w-md md:max-w-lg rounded-full object-contain transition-transform duration-300 hover:scale-105"
+            />
+          </div>
         </div>
       </div>
 

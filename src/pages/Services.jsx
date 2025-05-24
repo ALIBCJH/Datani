@@ -1,4 +1,4 @@
-// src/pages/Services.jsx
+
 import React from "react";
 
 const servicesData = [
@@ -54,7 +54,7 @@ const servicesData = [
 
 const Services = () => {
   return (
-    <section className="min-h-screen bg-white px-6 py-16 max-w-7xl mx-auto">
+    <section className="min-h-screen bg-white px-6 pt-32 pb-16 max-w-7xl mx-auto">
       <h1 className="text-5xl font-extrabold text-purple-700 mb-10 text-center tracking-wide">
         Our Insurance Services
       </h1>
