@@ -2,7 +2,7 @@ import React from "react";
 import madisonLogo from "../assets/tech/madison.png";
 import britamLogo from "../assets/tech/britam.png";
 import cicLogo from "../assets/tech/cic.png";
-import oldMutualLogo from "../assets/tech/oldmutual.png";
+import oldMutualLogo from "../assets/tech/oldMutual.png";
 import jubileeLogo from "../assets/tech/jubilee.png";
 import imLogo from "../assets/tech/im.png";
 
